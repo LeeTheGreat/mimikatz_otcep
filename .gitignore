@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+**/.vs/
+
+*.log
+*.recipe
+**/x64/
+**/x86/
+**/ARM64/
