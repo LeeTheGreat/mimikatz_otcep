@@ -1,0 +1,15 @@
+D:\repo\mimikatz_otcep\mimilib\kappfree.c;D:\repo\mimikatz_otcep\mimilib\x64\kappfree.obj
+D:\repo\mimikatz_otcep\mimilib\kdhcp.c;D:\repo\mimikatz_otcep\mimilib\x64\kdhcp.obj
+D:\repo\mimikatz_otcep\mimilib\kdns.c;D:\repo\mimikatz_otcep\mimilib\x64\kdns.obj
+D:\repo\mimikatz_otcep\mimilib\kfilt.c;D:\repo\mimikatz_otcep\mimilib\x64\kfilt.obj
+D:\repo\mimikatz_otcep\mimilib\knp.c;D:\repo\mimikatz_otcep\mimilib\x64\knp.obj
+D:\repo\mimikatz_otcep\mimilib\kssp.c;D:\repo\mimikatz_otcep\mimilib\x64\kssp.obj
+D:\repo\mimikatz_otcep\mimilib\ksub.c;D:\repo\mimikatz_otcep\mimilib\x64\ksub.obj
+D:\repo\mimikatz_otcep\mimilib\kcredentialprovider.c;D:\repo\mimikatz_otcep\mimilib\x64\kcredentialprovider.obj
+D:\repo\mimikatz_otcep\mimilib\sekurlsadbg\kuhl_m_sekurlsa_nt6.c;D:\repo\mimikatz_otcep\mimilib\x64\kuhl_m_sekurlsa_nt6.obj
+D:\repo\mimikatz_otcep\mimilib\sekurlsadbg\kuhl_m_sekurlsa_packages.c;D:\repo\mimikatz_otcep\mimilib\x64\kuhl_m_sekurlsa_packages.obj
+D:\repo\mimikatz_otcep\mimilib\sekurlsadbg\kuhl_m_sekurlsa_utils.c;D:\repo\mimikatz_otcep\mimilib\x64\kuhl_m_sekurlsa_utils.obj
+D:\repo\mimikatz_otcep\mimilib\sekurlsadbg\kull_m_rpc.c;D:\repo\mimikatz_otcep\mimilib\x64\kull_m_rpc.obj
+D:\repo\mimikatz_otcep\mimilib\sekurlsadbg\kull_m_rpc_ms-credentialkeys.c;D:\repo\mimikatz_otcep\mimilib\x64\kull_m_rpc_ms-credentialkeys.obj
+D:\repo\mimikatz_otcep\mimilib\sekurlsadbg\kwindbg.c;D:\repo\mimikatz_otcep\mimilib\x64\kwindbg.obj
+D:\repo\mimikatz_otcep\mimilib\utils.c;D:\repo\mimikatz_otcep\mimilib\x64\utils.obj
